@@ -4,3 +4,6 @@
 
 -- Disable autoformat globally
 vim.g.autoformat = false
+
+-- Config LazyRoot
+vim.g.root_spec = { ".git" }
